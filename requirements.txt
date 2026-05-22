@@ -1,0 +1,15 @@
+# Web framework
+fastapi==0.115.12
+uvicorn==0.34.3
+
+# Data validation (v2 only — v1 is broken on Python 3.14)
+pydantic==2.12.1
+
+# PDF parsing
+pymupdf==1.26.5
+
+# Anthropic LLM
+groq==0.13.1
+# Utilities
+python-dotenv==1.1.0
+rich==14.0.0

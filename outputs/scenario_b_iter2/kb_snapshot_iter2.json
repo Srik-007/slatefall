@@ -1,0 +1,566 @@
+{
+  "snapshot_at": "2026-05-22T17:52:03.283086",
+  "sessions": [
+    {
+      "session_id": "sess_20260522_175203_4a87ad",
+      "section_ids": [
+        6,
+        8,
+        9
+      ],
+      "timestamp": "2026-05-22T17:52:03.267306",
+      "score": 13,
+      "total": 15,
+      "simulated": 1,
+      "questions": [
+        {
+          "question_id": "q_6_001_30d70e",
+          "question_text": "What is the name of the PAMC's administrative headquarters' location?",
+          "topic_tag": "operational_territory",
+          "section_id": 6,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_6_002_4e8dd3",
+          "question_text": "What is the name of the pediatric oncologist and spouse of Inez Calvache-Renstr\u00f6m?",
+          "topic_tag": "external_allies",
+          "section_id": 6,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_6_003_ee5ed7",
+          "question_text": "What is the name of the Chilean Army active duty liaison officer between PAMC and Chilean Army Andean Brigade?",
+          "topic_tag": "external_allies",
+          "section_id": 6,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_6_004_45c728",
+          "question_text": "What is the name of the senior psychologist who is the asset's continuing mental-health practitioner since 2020?",
+          "topic_tag": "external_allies",
+          "section_id": 6,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_6_005_2b949b",
+          "question_text": "What is the current number of member states in the Pan-American Metahuman Cooperative (PAMC)?",
+          "topic_tag": "operational_territory",
+          "section_id": 6,
+          "user_answer": "C",
+          "correct_answer": "D",
+          "is_correct": 0
+        },
+        {
+          "question_id": "q_8_001_c15287",
+          "question_text": "What is the total floor area of Cuartel Valpara\u00edso?",
+          "topic_tag": "cuartel_valparaiso",
+          "section_id": 8,
+          "user_answer": "D",
+          "correct_answer": "B",
+          "is_correct": 0
+        },
+        {
+          "question_id": "q_8_002_4e59fd",
+          "question_text": "What is the operational security level of Cuartel Valpara\u00edso?",
+          "topic_tag": "cuartel_valparaiso",
+          "section_id": 8,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_8_003_149827",
+          "question_text": "Which of the following countries is NOT part of the asset's authorized operational territory?",
+          "topic_tag": "operational_territory",
+          "section_id": 8,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_8_004_a19953",
+          "question_text": "What is the name of the primary base of the asset's operations?",
+          "topic_tag": "cuartel_valparaiso",
+          "section_id": 8,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_8_005_0586de",
+          "question_text": "Which province in Argentina is part of the asset's authorized operational territory?",
+          "topic_tag": "operational_territory",
+          "section_id": 8,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_9_001_04d7f6",
+          "question_text": "What region is the location of the operation in Case 2019-0017: Probationary Assessment?",
+          "topic_tag": "operational_territory",
+          "section_id": 9,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_9_002_beba8e",
+          "question_text": "In which case did PAMC first demonstrate initial mass-ceiling stability at 200 kg?",
+          "topic_tag": "operational_territory",
+          "section_id": 9,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_9_003_bdf0a3",
+          "question_text": "What is the name of the Concession affiliate who escaped in Case 2024-0034?",
+          "topic_tag": "external_allies",
+          "section_id": 9,
+          "user_answer": "A",
+          "correct_answer": "A",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_9_004_14b696",
+          "question_text": "In which case did PAMC suffer 11 civilian deaths and 27 civilian injuries?",
+          "topic_tag": "operational_territory",
+          "section_id": 9,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_9_005_b5e6e9",
+          "question_text": "What is the name of the city where the operation in Case 2023-0067 took place?",
+          "topic_tag": "operational_territory",
+          "section_id": 9,
+          "user_answer": "A",
+          "correct_answer": "A",
+          "is_correct": 1
+        }
+      ]
+    },
+    {
+      "session_id": "sess_20260522_175119_65cf59",
+      "section_ids": [
+        5,
+        8
+      ],
+      "timestamp": "2026-05-22T17:51:19.092439",
+      "score": 8,
+      "total": 10,
+      "simulated": 1,
+      "questions": [
+        {
+          "question_id": "q_5_001_497a7e",
+          "question_text": "What is the main idea behind the Doctrine of Sequential Suspension?",
+          "topic_tag": "doctrine_of_sequential_suspension",
+          "section_id": 5,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_5_002_25f977",
+          "question_text": "What is the significance of the 1.2-second targeting window in the Doctrine of Sequential Suspension?",
+          "topic_tag": "doctrine_of_sequential_suspension",
+          "section_id": 5,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_5_003_55c1af",
+          "question_text": "What is the purpose of the Suspended Field technique?",
+          "topic_tag": "suspended_field",
+          "section_id": 5,
+          "user_answer": "A",
+          "correct_answer": "A",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_5_004_05adb1",
+          "question_text": "What is the maximum number of objects that can be simultaneously held in the Suspended Field technique?",
+          "topic_tag": "suspended_field",
+          "section_id": 5,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_5_005_3207f6",
+          "question_text": "What is the Three-Two-One rule in the context of the asset's tactical heuristic?",
+          "topic_tag": "tactical_heuristic",
+          "section_id": 5,
+          "user_answer": "D",
+          "correct_answer": "B",
+          "is_correct": 0
+        },
+        {
+          "question_id": "q_8_001_da229f",
+          "question_text": "What is the total floor area of Cuartel Valpara\u00edso?",
+          "topic_tag": "cuartel_valparaiso",
+          "section_id": 8,
+          "user_answer": "D",
+          "correct_answer": "B",
+          "is_correct": 0
+        },
+        {
+          "question_id": "q_8_002_bdf37e",
+          "question_text": "What is the operational security level of Cuartel Valpara\u00edso?",
+          "topic_tag": "cuartel_valparaiso",
+          "section_id": 8,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_8_003_61de59",
+          "question_text": "What is the extent of the asset's authorized operational territory in Chile?",
+          "topic_tag": "operational_territory",
+          "section_id": 8,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_8_004_b734f0",
+          "question_text": "How many provinces in Argentina are included in the asset's authorized operational territory?",
+          "topic_tag": "operational_territory",
+          "section_id": 8,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_8_005_9280da",
+          "question_text": "What is the name of the facility that serves as the asset's primary operational base?",
+          "topic_tag": "cuartel_valparaiso",
+          "section_id": 8,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        }
+      ]
+    },
+    {
+      "session_id": "sess_20260522_174610_90c72f",
+      "section_ids": [
+        8
+      ],
+      "timestamp": "2026-05-22T17:46:10.928689",
+      "score": 4,
+      "total": 5,
+      "simulated": 1,
+      "questions": [
+        {
+          "question_id": "q_8_001_9b554d",
+          "question_text": "What is the total floor area of Cuartel Valpara\u00edso?",
+          "topic_tag": "cuartel_valparaiso",
+          "section_id": 8,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_8_002_67af55",
+          "question_text": "What is the primary function of the Edificio Marasol base?",
+          "topic_tag": "secondary_bases",
+          "section_id": 8,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_8_003_cb7f1d",
+          "question_text": "What is the status of the S-4 safehouse in Antofagasta?",
+          "topic_tag": "safehouses",
+          "section_id": 8,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_8_004_997cb6",
+          "question_text": "How many micro-caches are distributed across the Andean cordillera?",
+          "topic_tag": "micro_cache_network",
+          "section_id": 8,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_8_005_b3039a",
+          "question_text": "What is the approximate area of the asset's authorized operational territory?",
+          "topic_tag": "operational_territory",
+          "section_id": 8,
+          "user_answer": "D",
+          "correct_answer": "C",
+          "is_correct": 0
+        }
+      ]
+    },
+    {
+      "session_id": "sess_20260522_174606_7bd617",
+      "section_ids": [
+        6,
+        8,
+        9
+      ],
+      "timestamp": "2026-05-22T17:46:06.981230",
+      "score": 13,
+      "total": 15,
+      "simulated": 1,
+      "questions": [
+        {
+          "question_id": "q_6_001_eb9a8d",
+          "question_text": "What is the name of the parent organization of Cell Halc\u00f3n?",
+          "topic_tag": "pamc",
+          "section_id": 6,
+          "user_answer": "A",
+          "correct_answer": "A",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_6_002_68e049",
+          "question_text": "What is the role of Sgt. Mateo Quispe-Linares in Cell Halc\u00f3n?",
+          "topic_tag": "cell_halcon",
+          "section_id": 6,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_6_003_6123b0",
+          "question_text": "What is the name of the director of the PAMC Operations Directorate?",
+          "topic_tag": "pamc_directors",
+          "section_id": 6,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_6_004_b12008",
+          "question_text": "What is the metahuman classification of Lt. Sol\u00e8ne Bauer-Cortez?",
+          "topic_tag": "metahuman_classifications",
+          "section_id": 6,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_6_005_a2c9ca",
+          "question_text": "What is the name of the pediatric oncologist and spouse of SLATEFALL?",
+          "topic_tag": "external_allies",
+          "section_id": 6,
+          "user_answer": "D",
+          "correct_answer": "C",
+          "is_correct": 0
+        },
+        {
+          "question_id": "q_8_001_6816d3",
+          "question_text": "What is the total floor area of Cuartel Valpara\u00edso?",
+          "topic_tag": "cuartel_valparaiso",
+          "section_id": 8,
+          "user_answer": "D",
+          "correct_answer": "B",
+          "is_correct": 0
+        },
+        {
+          "question_id": "q_8_002_9c5358",
+          "question_text": "What is the personnel capacity of Cuartel Valpara\u00edso?",
+          "topic_tag": "cuartel_valparaiso",
+          "section_id": 8,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_8_003_d89e49",
+          "question_text": "What type of security level does Cuartel Valpara\u00edso have?",
+          "topic_tag": "cuartel_valparaiso",
+          "section_id": 8,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_8_004_2a7d89",
+          "question_text": "What is the average daily population of Cuartel Valpara\u00edso?",
+          "topic_tag": "cuartel_valparaiso",
+          "section_id": 8,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_8_005_2618d1",
+          "question_text": "How many subsurface levels does Cuartel Valpara\u00edso have?",
+          "topic_tag": "cuartel_valparaiso",
+          "section_id": 8,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_9_001_b87f66",
+          "question_text": "What was the location of Case 2019-0017: Probationary Assessment?",
+          "topic_tag": "case_files",
+          "section_id": 9,
+          "user_answer": "A",
+          "correct_answer": "A",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_9_002_def5ad",
+          "question_text": "What was the outcome of Case 2020-0048: Antofagasta Containment?",
+          "topic_tag": "case_files",
+          "section_id": 9,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_9_003_6fb4be",
+          "question_text": "What was the result of the engagement in Case 2022-0123: Tropopausa First Engagement?",
+          "topic_tag": "case_files",
+          "section_id": 9,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_9_004_b753b6",
+          "question_text": "What type of event occurred during the engagement in Case 2024-0202: Quebrantadero Showdown?",
+          "topic_tag": "case_files",
+          "section_id": 9,
+          "user_answer": "A",
+          "correct_answer": "A",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_9_005_4fb77b",
+          "question_text": "What was the result for PAMC casualties in Case 2023-0067: El Sereno Pursuit?",
+          "topic_tag": "case_files",
+          "section_id": 9,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        }
+      ]
+    },
+    {
+      "session_id": "sess_20260522_174540_86df98",
+      "section_ids": [
+        5,
+        8
+      ],
+      "timestamp": "2026-05-22T17:45:40.017847",
+      "score": 8,
+      "total": 10,
+      "simulated": 1,
+      "questions": [
+        {
+          "question_id": "q_5_001_420534",
+          "question_text": "What is the primary concept behind the Doctrine of Sequential Suspension?",
+          "topic_tag": "doctrine",
+          "section_id": 5,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_5_002_a4946d",
+          "question_text": "What is the maximum number of active sightlines that should be maintained at any moment according to the Three-Two-One Rule?",
+          "topic_tag": "tactics",
+          "section_id": 5,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_5_003_e9f8d2",
+          "question_text": "What is the required protocol for engaging Tier 3 threats?",
+          "topic_tag": "engagement_protocols",
+          "section_id": 5,
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_5_004_a954e2",
+          "question_text": "What is the purpose of the Drop-Tune Manoeuvre?",
+          "topic_tag": "manoeuvres",
+          "section_id": 5,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_5_005_ea45c5",
+          "question_text": "What is the maximum number of objects that can be simultaneously held in mid-air using the Suspended Field Technique?",
+          "topic_tag": "suspended_field",
+          "section_id": 5,
+          "user_answer": "D",
+          "correct_answer": "C",
+          "is_correct": 0
+        },
+        {
+          "question_id": "q_8_001_98c198",
+          "question_text": "What is the total floor area of Cuartel Valpara\u00edso?",
+          "topic_tag": "cuartel_valparaiso",
+          "section_id": 8,
+          "user_answer": "D",
+          "correct_answer": "B",
+          "is_correct": 0
+        },
+        {
+          "question_id": "q_8_002_109060",
+          "question_text": "What is the average daily population of Cuartel Valpara\u00edso?",
+          "topic_tag": "cuartel_valparaiso",
+          "section_id": 8,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_8_003_eea6da",
+          "question_text": "What is the number of micro-caches maintained by the asset in the Andean cordillera?",
+          "topic_tag": "micro_cache_network",
+          "section_id": 8,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_8_004_868e2d",
+          "question_text": "What is the size of the asset's authorized operational territory?",
+          "topic_tag": "operational_territory",
+          "section_id": 8,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        },
+        {
+          "question_id": "q_8_005_900b8f",
+          "question_text": "How often are the cache locations rotated?",
+          "topic_tag": "micro_cache_network",
+          "section_id": 8,
+          "user_answer": "C",
+          "correct_answer": "C",
+          "is_correct": 1
+        }
+      ]
+    }
+  ]
+}

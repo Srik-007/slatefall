@@ -1,0 +1,176 @@
+{
+  "iteration": 3,
+  "session_id": "sess_20260522_175207_b9cdcc",
+  "section_ids": [
+    8
+  ],
+  "timestamp": "2026-05-22T17:52:07.281111",
+  "adaptive_summary": "Returning user detected. 6 prior session(s) found for sections [8].\nWeak areas to focus on: cuartel_valparaiso (4 wrong), operational_territory (2 wrong)\nAlready mastered (will avoid repeating): micro_cache_network",
+  "questions": [
+    {
+      "question_id": "q_8_001_81f1f9",
+      "section_id": 8,
+      "topic_tag": "cuartel_valparaiso",
+      "question_text": "What is the total floor area of Cuartel Valpara\u00edso?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3,820 m\u00b2"
+        },
+        {
+          "label": "B",
+          "text": "4,820 m\u00b2"
+        },
+        {
+          "label": "C",
+          "text": "5,820 m\u00b2"
+        },
+        {
+          "label": "D",
+          "text": "6,820 m\u00b2"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The total floor area of Cuartel Valpara\u00edso is 4,820 m\u00b2, as stated in the document."
+    },
+    {
+      "question_id": "q_8_002_9fad37",
+      "section_id": 8,
+      "topic_tag": "cuartel_valparaiso",
+      "question_text": "What is the personnel capacity of Cuartel Valpara\u00edso?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "30 (residential), 100 (working)"
+        },
+        {
+          "label": "B",
+          "text": "38 (residential), 142 (working)"
+        },
+        {
+          "label": "C",
+          "text": "48 (residential), 152 (working)"
+        },
+        {
+          "label": "D",
+          "text": "58 (residential), 162 (working)"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The personnel capacity of Cuartel Valpara\u00edso is 38 (residential) and 142 (working), as stated in the document."
+    },
+    {
+      "question_id": "q_8_003_06984c",
+      "section_id": 8,
+      "topic_tag": "operational_territory",
+      "question_text": "Which of the following countries is fully included in the asset's authorized operational territory?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ecuador"
+        },
+        {
+          "label": "B",
+          "text": "Chile"
+        },
+        {
+          "label": "C",
+          "text": "Paraguay"
+        },
+        {
+          "label": "D",
+          "text": "Peru"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Chile is fully included in the asset's authorized operational territory, as stated in the document."
+    },
+    {
+      "question_id": "q_8_004_abe58f",
+      "section_id": 8,
+      "topic_tag": "operational_territory",
+      "question_text": "What is the size of the asset's authorized operational territory?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5.8 million km\u00b2"
+        },
+        {
+          "label": "B",
+          "text": "6.2 million km\u00b2"
+        },
+        {
+          "label": "C",
+          "text": "6.8 million km\u00b2"
+        },
+        {
+          "label": "D",
+          "text": "7.2 million km\u00b2"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The asset's authorized operational territory spans approximately 6.8 million km\u00b2, as stated in the document."
+    },
+    {
+      "question_id": "q_8_005_86ae78",
+      "section_id": 8,
+      "topic_tag": "operational_territory",
+      "question_text": "Which province in Peru is excluded from the asset's authorized operational territory?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cuzco"
+        },
+        {
+          "label": "B",
+          "text": "Arequipa"
+        },
+        {
+          "label": "C",
+          "text": "Any province north of 10\u00b0S latitude"
+        },
+        {
+          "label": "D",
+          "text": "Any province south of 10\u00b0S latitude"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The asset's authorized operational territory in Peru is limited to the area south of 10\u00b0S latitude, as stated in the document."
+    }
+  ],
+  "results": [
+    {
+      "question_id": "q_8_001_81f1f9",
+      "selected": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_8_002_9fad37",
+      "selected": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_8_003_06984c",
+      "selected": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_8_004_abe58f",
+      "selected": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_8_005_86ae78",
+      "selected": "D",
+      "correct_answer": "C",
+      "is_correct": false
+    }
+  ],
+  "score": 4,
+  "total": 5,
+  "percentage": 80.0
+}

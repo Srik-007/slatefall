@@ -1,0 +1,337 @@
+{
+  "iteration": 1,
+  "session_id": "sess_20260522_175119_65cf59",
+  "section_ids": [
+    5,
+    8
+  ],
+  "timestamp": "2026-05-22T17:51:19.092439",
+  "adaptive_summary": "Returning user detected. 4 prior session(s) found for sections [5, 8].\nWeak areas to focus on: cuartel_valparaiso (3 wrong), operational_territory (1 wrong), suspended_field (1 wrong), tactical_heuristic (1 wrong)\nAlready mastered (will avoid repeating): micro_cache_network",
+  "questions": [
+    {
+      "question_id": "q_5_001_497a7e",
+      "section_id": 5,
+      "topic_tag": "doctrine_of_sequential_suspension",
+      "question_text": "What is the main idea behind the Doctrine of Sequential Suspension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Using suspension as a continuous capability"
+        },
+        {
+          "label": "B",
+          "text": "Treating each activation as ammunition and sequencing to achieve lethality"
+        },
+        {
+          "label": "C",
+          "text": "Maintaining multiple active sightlines at all times"
+        },
+        {
+          "label": "D",
+          "text": "Withdrawing before exhaustion without any specific protocol"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The Doctrine of Sequential Suspension rests on six core principles, including treating each activation as ammunition and sequencing to achieve lethality."
+    },
+    {
+      "question_id": "q_5_002_25f977",
+      "section_id": 5,
+      "topic_tag": "doctrine_of_sequential_suspension",
+      "question_text": "What is the significance of the 1.2-second targeting window in the Doctrine of Sequential Suspension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is the time it takes to activate suspension"
+        },
+        {
+          "label": "B",
+          "text": "It is the time it takes to cool down after an activation"
+        },
+        {
+          "label": "C",
+          "text": "It is the vulnerability that needs to be protected above all"
+        },
+        {
+          "label": "D",
+          "text": "It is the time it takes to sequence multiple activations"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The 1.2-second targeting window is considered a vulnerability that needs to be protected above all, according to the Doctrine of Sequential Suspension."
+    },
+    {
+      "question_id": "q_5_003_55c1af",
+      "section_id": 5,
+      "topic_tag": "suspended_field",
+      "question_text": "What is the purpose of the Suspended Field technique?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To create a transient kinetic-cover zone"
+        },
+        {
+          "label": "B",
+          "text": "To deliver compounded impacts using Tail Momentum"
+        },
+        {
+          "label": "C",
+          "text": "To maintain multiple active sightlines at all times"
+        },
+        {
+          "label": "D",
+          "text": "To withdraw before exhaustion without any specific protocol"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The Suspended Field technique uses the tertiary Hold ability to maintain multiple low-mass objects in mid-air simultaneously, creating a transient kinetic-cover zone."
+    },
+    {
+      "question_id": "q_5_004_05adb1",
+      "section_id": 5,
+      "topic_tag": "suspended_field",
+      "question_text": "What is the maximum number of objects that can be simultaneously held in the Suspended Field technique?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "5"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The Suspended Field technique can hold a maximum of 4 objects simultaneously, matching the available activations within a 60-s window minus a 1-suspension reserve."
+    },
+    {
+      "question_id": "q_5_005_3207f6",
+      "section_id": 5,
+      "topic_tag": "tactical_heuristic",
+      "question_text": "What is the Three-Two-One rule in the context of the asset's tactical heuristic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Three activations maximum per 30-second window, two active sightlines, and one pre-anchored extraction route"
+        },
+        {
+          "label": "B",
+          "text": "Three activations maximum per 60-second window, two active sightlines, and one pre-anchored extraction route"
+        },
+        {
+          "label": "C",
+          "text": "Two activations maximum per 60-second window, three active sightlines, and one pre-anchored extraction route"
+        },
+        {
+          "label": "D",
+          "text": "One activation maximum per 60-second window, two active sightlines, and three pre-anchored extraction routes"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The Three-Two-One rule states that there should be three activations maximum per 60-second window, two active sightlines maintained at any moment, and one pre-anchored extraction route held in reserve."
+    },
+    {
+      "question_id": "q_8_001_da229f",
+      "section_id": 8,
+      "topic_tag": "cuartel_valparaiso",
+      "question_text": "What is the total floor area of Cuartel Valpara\u00edso?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3,820 m\u00b2"
+        },
+        {
+          "label": "B",
+          "text": "4,820 m\u00b2"
+        },
+        {
+          "label": "C",
+          "text": "5,820 m\u00b2"
+        },
+        {
+          "label": "D",
+          "text": "6,820 m\u00b2"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The total floor area of Cuartel Valpara\u00edso is 4,820 m\u00b2, as stated in Section 8.1 of the document."
+    },
+    {
+      "question_id": "q_8_002_bdf37e",
+      "section_id": 8,
+      "topic_tag": "cuartel_valparaiso",
+      "question_text": "What is the operational security level of Cuartel Valpara\u00edso?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PAMC Restricted-1"
+        },
+        {
+          "label": "B",
+          "text": "PAMC Restricted-2"
+        },
+        {
+          "label": "C",
+          "text": "PAMC Restricted-3"
+        },
+        {
+          "label": "D",
+          "text": "PAMC Restricted-4"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The operational security level of Cuartel Valpara\u00edso is PAMC Restricted-3, as stated in Section 8.1 of the document."
+    },
+    {
+      "question_id": "q_8_003_61de59",
+      "section_id": 8,
+      "topic_tag": "operational_territory",
+      "question_text": "What is the extent of the asset's authorized operational territory in Chile?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Full territory, including Easter Island"
+        },
+        {
+          "label": "B",
+          "text": "Full territory, excluding Easter Island"
+        },
+        {
+          "label": "C",
+          "text": "Partial territory, including only the northern regions"
+        },
+        {
+          "label": "D",
+          "text": "Partial territory, including only the southern regions"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The asset's authorized operational territory in Chile includes the full territory, except for Easter Island, which is restricted, as stated in Section 8.5 of the document."
+    },
+    {
+      "question_id": "q_8_004_b734f0",
+      "section_id": 8,
+      "topic_tag": "operational_territory",
+      "question_text": "How many provinces in Argentina are included in the asset's authorized operational territory?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3 provinces"
+        },
+        {
+          "label": "B",
+          "text": "5 provinces"
+        },
+        {
+          "label": "C",
+          "text": "6 provinces"
+        },
+        {
+          "label": "D",
+          "text": "8 provinces"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The asset's authorized operational territory in Argentina includes the provinces of Mendoza, Salta, Jujuy, Neuqu\u00e9n, R\u00edo Negro, and Chubut, as stated in Section 8.5 of the document."
+    },
+    {
+      "question_id": "q_8_005_9280da",
+      "section_id": 8,
+      "topic_tag": "cuartel_valparaiso",
+      "question_text": "What is the name of the facility that serves as the asset's primary operational base?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Edificio Marasol"
+        },
+        {
+          "label": "B",
+          "text": "Cuartel Valpara\u00edso"
+        },
+        {
+          "label": "C",
+          "text": "Oficina Tarija"
+        },
+        {
+          "label": "D",
+          "text": "Annex Trelew"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuartel Valpara\u00edso is the asset's primary operational base, as stated in Section 8.1 of the document."
+    }
+  ],
+  "results": [
+    {
+      "question_id": "q_5_001_497a7e",
+      "selected": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_5_002_25f977",
+      "selected": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_5_003_55c1af",
+      "selected": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_5_004_05adb1",
+      "selected": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_5_005_3207f6",
+      "selected": "D",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "question_id": "q_8_001_da229f",
+      "selected": "D",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "question_id": "q_8_002_bdf37e",
+      "selected": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_8_003_61de59",
+      "selected": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_8_004_b734f0",
+      "selected": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_8_005_9280da",
+      "selected": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    }
+  ],
+  "score": 8,
+  "total": 10,
+  "percentage": 80.0
+}

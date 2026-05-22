@@ -1,0 +1,498 @@
+{
+  "iteration": 2,
+  "session_id": "sess_20260522_175203_4a87ad",
+  "section_ids": [
+    6,
+    8,
+    9
+  ],
+  "timestamp": "2026-05-22T17:52:03.267306",
+  "adaptive_summary": "Returning user detected. 5 prior session(s) found for sections [6, 8, 9].\nWeak areas to focus on: cuartel_valparaiso (4 wrong), external_allies (1 wrong), operational_territory (1 wrong), operational_territory (1 wrong)\nAlready mastered (will avoid repeating): case_files, micro_cache_network",
+  "questions": [
+    {
+      "question_id": "q_6_001_30d70e",
+      "section_id": 6,
+      "topic_tag": "operational_territory",
+      "question_text": "What is the name of the PAMC's administrative headquarters' location?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Edificio Marasol, Avenida Salaverry 1840, Santiago"
+        },
+        {
+          "label": "B",
+          "text": "Edificio Marasol, Avenida Salaverry 1840, Lima"
+        },
+        {
+          "label": "C",
+          "text": "Edificio Marasol, Avenida Salaverry 1840, Buenos Aires"
+        },
+        {
+          "label": "D",
+          "text": "Edificio Marasol, Avenida Salaverry 1840, Quito"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The PAMC's administrative headquarters is located at Edificio Marasol, Avenida Salaverry 1840, Lima."
+    },
+    {
+      "question_id": "q_6_002_4e8dd3",
+      "section_id": 6,
+      "topic_tag": "external_allies",
+      "question_text": "What is the name of the pediatric oncologist and spouse of Inez Calvache-Renstr\u00f6m?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dr. Catalina Ovalle-Garrido"
+        },
+        {
+          "label": "B",
+          "text": "Dr. Catalina Renstr\u00f6m-Verdugo"
+        },
+        {
+          "label": "C",
+          "text": "Dr. Maite Borghi-Castelnuovo"
+        },
+        {
+          "label": "D",
+          "text": "Dr. L\u00e9on Marr\u00f3n-Saavedra"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dr. Catalina Renstr\u00f6m-Verdugo is the pediatric oncologist and spouse of Inez Calvache-Renstr\u00f6m."
+    },
+    {
+      "question_id": "q_6_003_ee5ed7",
+      "section_id": 6,
+      "topic_tag": "external_allies",
+      "question_text": "What is the name of the Chilean Army active duty liaison officer between PAMC and Chilean Army Andean Brigade?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Comandante Ezequiel Ovalle-Salvatierra"
+        },
+        {
+          "label": "B",
+          "text": "Comandante Ezequiel Ovalle-Garrido"
+        },
+        {
+          "label": "C",
+          "text": "Comandante Mateo Quispe-Linares"
+        },
+        {
+          "label": "D",
+          "text": "Comandante Ra\u00fal Vendrame"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comandante Ezequiel Ovalle-Garrido is the Chilean Army active duty liaison officer between PAMC and Chilean Army Andean Brigade."
+    },
+    {
+      "question_id": "q_6_004_45c728",
+      "section_id": 6,
+      "topic_tag": "external_allies",
+      "question_text": "What is the name of the senior psychologist who is the asset's continuing mental-health practitioner since 2020?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dr. L\u00e9on Marr\u00f3n-Saavedra"
+        },
+        {
+          "label": "B",
+          "text": "Dr. Maite Borghi-Castelnuovo"
+        },
+        {
+          "label": "C",
+          "text": "Dr. A\u00edda Salvatierra-Bunge"
+        },
+        {
+          "label": "D",
+          "text": "Dr. Catalina Renstr\u00f6m-Verdugo"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dr. Maite Borghi-Castelnuovo is the senior psychologist who is the asset's continuing mental-health practitioner since 2020."
+    },
+    {
+      "question_id": "q_6_005_2b949b",
+      "section_id": 6,
+      "topic_tag": "operational_territory",
+      "question_text": "What is the current number of member states in the Pan-American Metahuman Cooperative (PAMC)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "9"
+        },
+        {
+          "label": "B",
+          "text": "10"
+        },
+        {
+          "label": "C",
+          "text": "11"
+        },
+        {
+          "label": "D",
+          "text": "12"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The current number of member states in the Pan-American Metahuman Cooperative (PAMC) is 12."
+    },
+    {
+      "question_id": "q_8_001_c15287",
+      "section_id": 8,
+      "topic_tag": "cuartel_valparaiso",
+      "question_text": "What is the total floor area of Cuartel Valpara\u00edso?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3,820 m\u00b2"
+        },
+        {
+          "label": "B",
+          "text": "4,820 m\u00b2"
+        },
+        {
+          "label": "C",
+          "text": "5,820 m\u00b2"
+        },
+        {
+          "label": "D",
+          "text": "6,820 m\u00b2"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The total floor area of Cuartel Valpara\u00edso is 4,820 m\u00b2, as stated in the document."
+    },
+    {
+      "question_id": "q_8_002_4e59fd",
+      "section_id": 8,
+      "topic_tag": "cuartel_valparaiso",
+      "question_text": "What is the operational security level of Cuartel Valpara\u00edso?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PAMC Restricted-1"
+        },
+        {
+          "label": "B",
+          "text": "PAMC Restricted-2"
+        },
+        {
+          "label": "C",
+          "text": "PAMC Restricted-3"
+        },
+        {
+          "label": "D",
+          "text": "PAMC Restricted-4"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The operational security level of Cuartel Valpara\u00edso is PAMC Restricted-3, as stated in the document."
+    },
+    {
+      "question_id": "q_8_003_149827",
+      "section_id": 8,
+      "topic_tag": "operational_territory",
+      "question_text": "Which of the following countries is NOT part of the asset's authorized operational territory?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chile"
+        },
+        {
+          "label": "B",
+          "text": "Argentina"
+        },
+        {
+          "label": "C",
+          "text": "Uruguay"
+        },
+        {
+          "label": "D",
+          "text": "Bolivia"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Uruguay is not mentioned as part of the asset's authorized operational territory in the document."
+    },
+    {
+      "question_id": "q_8_004_a19953",
+      "section_id": 8,
+      "topic_tag": "cuartel_valparaiso",
+      "question_text": "What is the name of the primary base of the asset's operations?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Edificio Marasol"
+        },
+        {
+          "label": "B",
+          "text": "Cuartel Valpara\u00edso"
+        },
+        {
+          "label": "C",
+          "text": "Oficina Tarija"
+        },
+        {
+          "label": "D",
+          "text": "Annex Trelew"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuartel Valpara\u00edso is the primary base of the asset's operations, as stated in the document."
+    },
+    {
+      "question_id": "q_8_005_0586de",
+      "section_id": 8,
+      "topic_tag": "operational_territory",
+      "question_text": "Which province in Argentina is part of the asset's authorized operational territory?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Buenos Aires"
+        },
+        {
+          "label": "B",
+          "text": "Mendoza"
+        },
+        {
+          "label": "C",
+          "text": "Cordoba"
+        },
+        {
+          "label": "D",
+          "text": "Santa Fe"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mendoza is one of the provinces in Argentina that is part of the asset's authorized operational territory, as stated in the document."
+    },
+    {
+      "question_id": "q_9_001_04d7f6",
+      "section_id": 9,
+      "topic_tag": "operational_territory",
+      "question_text": "What region is the location of the operation in Case 2019-0017: Probationary Assessment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atacama Region"
+        },
+        {
+          "label": "B",
+          "text": "Antofagasta Region"
+        },
+        {
+          "label": "C",
+          "text": "Tarapac\u00e1 Region"
+        },
+        {
+          "label": "D",
+          "text": "Valpara\u00edso Region"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The location of the operation in Case 2019-0017 is Atacama Desert, near Tocopilla, Antofagasta Region, Chile"
+    },
+    {
+      "question_id": "q_9_002_beba8e",
+      "section_id": 9,
+      "topic_tag": "operational_territory",
+      "question_text": "In which case did PAMC first demonstrate initial mass-ceiling stability at 200 kg?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Case 2020-0048"
+        },
+        {
+          "label": "B",
+          "text": "Case 2019-0017"
+        },
+        {
+          "label": "C",
+          "text": "Case 2022-0123"
+        },
+        {
+          "label": "D",
+          "text": "Case 2024-0034"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Case 2019-0017 demonstrated initial mass-ceiling stability at 200 kg"
+    },
+    {
+      "question_id": "q_9_003_bdf0a3",
+      "section_id": 9,
+      "topic_tag": "external_allies",
+      "question_text": "What is the name of the Concession affiliate who escaped in Case 2024-0034?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cataract"
+        },
+        {
+          "label": "B",
+          "text": "Quebrantadero"
+        },
+        {
+          "label": "C",
+          "text": "El Sereno"
+        },
+        {
+          "label": "D",
+          "text": "Tropopausa"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The metahuman 'Cataract' escaped in Case 2024-0034"
+    },
+    {
+      "question_id": "q_9_004_14b696",
+      "section_id": 9,
+      "topic_tag": "operational_territory",
+      "question_text": "In which case did PAMC suffer 11 civilian deaths and 27 civilian injuries?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Case 2020-0048"
+        },
+        {
+          "label": "B",
+          "text": "Case 2022-0123"
+        },
+        {
+          "label": "C",
+          "text": "Case 2024-0202"
+        },
+        {
+          "label": "D",
+          "text": "Case 2024-0034"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Case 2024-0202 resulted in 11 civilian deaths and 27 civilian injuries"
+    },
+    {
+      "question_id": "q_9_005_b5e6e9",
+      "section_id": 9,
+      "topic_tag": "operational_territory",
+      "question_text": "What is the name of the city where the operation in Case 2023-0067 took place?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iquique"
+        },
+        {
+          "label": "B",
+          "text": "Tocopilla"
+        },
+        {
+          "label": "C",
+          "text": "Antofagasta"
+        },
+        {
+          "label": "D",
+          "text": "Valpara\u00edso"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The operation in Case 2023-0067 took place in Iquique, Tarapac\u00e1 Region, Chile"
+    }
+  ],
+  "results": [
+    {
+      "question_id": "q_6_001_30d70e",
+      "selected": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_6_002_4e8dd3",
+      "selected": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_6_003_ee5ed7",
+      "selected": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_6_004_45c728",
+      "selected": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_6_005_2b949b",
+      "selected": "C",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "question_id": "q_8_001_c15287",
+      "selected": "D",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "question_id": "q_8_002_4e59fd",
+      "selected": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_8_003_149827",
+      "selected": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_8_004_a19953",
+      "selected": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_8_005_0586de",
+      "selected": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_9_001_04d7f6",
+      "selected": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_9_002_beba8e",
+      "selected": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_9_003_bdf0a3",
+      "selected": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_9_004_14b696",
+      "selected": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "question_id": "q_9_005_b5e6e9",
+      "selected": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    }
+  ],
+  "score": 13,
+  "total": 15,
+  "percentage": 86.7
+}
